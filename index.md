@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjVpN2c0MjVpaHMxaDNoNWluMmEzZmQxbDggbXlsdWtyQG0&amp;tmsrc=mylukr%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLR1LBTDLHZNOJ8YHFesoontrmvWfYDm-EUGPIRbQbsQmkwg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Завантаження...</iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
