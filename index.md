@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mylukr/mylukr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to My Github
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjVpN2c0MjVpaHMxaDNoNWluMmEzZmQxbDggbXlsdWtyQG0&amp;tmsrc=mylukr%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLR1LBTDLHZNOJ8YHFesoontrmvWfYDm-EUGPIRbQbsQmkwg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Завантаження...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLR1LBTDLHZNOJ8YHFesoontrmvWfYDm-EUGPIRbQbsQmkwg/viewform?embedded=true" width="700" height="720" frameborder="0" marginheight="0" marginwidth="0">Завантаження...</iframe>
 
 ### Markdown
 
